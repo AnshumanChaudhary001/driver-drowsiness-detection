@@ -12,23 +12,21 @@ This project aims to **detect early signs of driver fatigue** through eye-blink 
 
 ---
 
+## ⚙️ System Components
 
-**Components:**
-- 🖥️ **Web App (Next.js):** Real-time dashboard for monitoring driver status and alerts.
-- 🤖 **ML Model / Backend:** Processes live video feed, performs face & eye detection, and determines drowsiness.
-- 📱 **Android App:** Provides mobile alerts and notifications.
-- ☁️ **API / Backend Server:** Connects all modules for data synchronization.
+- 🖥️ **Web App (Next.js):** Real-time dashboard for monitoring driver status and alerts  
+- 🤖 **ML Model / Backend:** Processes live video feed, performs face & eye detection, and determines drowsiness  
+- 📱 **Android App:** Provides mobile alerts and notifications  
+- ☁️ **API / Server:** Connects all modules for data synchronization  
 
 ---
 
 ## 🚀 Features
 
-✅ Real-time drowsiness detection using eye-blink and facial cues  
-✅ Visual and sound alerts for driver fatigue  
-✅ Live monitoring via Next.js web dashboard  
-✅ Android app for notifications and driver analytics  
-✅ Cross-device data sync through backend API  
-✅ Modular architecture for easy deployment and scaling  
+✅ Real-time drowsiness detection using facial landmarks and eye-blink analysis  
+✅ Visual and audio alerts for driver fatigue  
+✅ Web dashboard for real-time monitoring  
+✅ Android app for mobile notifications  
 
 ---
 
@@ -38,8 +36,18 @@ This project aims to **detect early signs of driver fatigue** through eye-blink 
 |------------|-------------|
 | **Frontend (Web)** | Next.js, React, Tailwind CSS |
 | **Mobile App** | Android (Kotlin / Java) |
-| **Backend** | Node.js |
+| **Backend** | Next.js (API Routes / Server-side Logic) |
 | **Database** | Firebase |
+
+## 🧠 How It Works
+
+1. **Camera Feed:** Captures live video of the driver.  
+2. **Face & Eye Detection:** track eye blinks and facial states.  
+3. **Drowsiness Detection:** Classifies driver state (Alert / Drowsy).  
+4. **Alert Mechanism:** Sends real-time audio alerts and updates dashboard and app.  
+
+<img width="492" height="696" alt="image" src="https://github.com/user-attachments/assets/caf0c877-37bc-42bd-a882-46cb09c749bc" />
+<img width="493" height="700" alt="image" src="https://github.com/user-attachments/assets/527e2f9b-31a7-4544-94fe-02000e269619" />
 
 
 
