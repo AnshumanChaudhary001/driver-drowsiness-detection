@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "61763733039",
+    "firebase_url": "https://drowsinessalert-3d289-default-rtdb.firebaseio.com",
+    "project_id": "drowsinessalert-3d289",
+    "storage_bucket": "drowsinessalert-3d289.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61763733039:android:d42004f812ba5aeec1e8da",
+        "android_client_info": {
+          "package_name": "com.example.drowsiness_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2G1a9le2TYruATEVjEMq1PmyQG_TR5YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
