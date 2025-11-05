@@ -46,8 +46,13 @@ This project aims to **detect early signs of driver fatigue** through eye-blink 
 3. **Drowsiness Detection:** Classifies driver state (Alert / Drowsy).  
 4. **Alert Mechanism:** Sends real-time audio alerts and updates dashboard and app.  
 
+<<<<<<< HEAD
 <img width="492" height="696" alt="image" src="./assets/poster.png" />
 <img width="493" height="700" alt="image" src="./assets/flow.png" />
+=======
+<img width="492" height="696" alt="image" src="https://github.com/user-attachments/assets/caf0c877-37bc-42bd-a882-46cb09c749bc" />
+<img width="493" height="700" alt="image" src="https://github.com/user-attachments/assets/527e2f9b-31a7-4544-94fe-02000e269619" />
+>>>>>>> d2dda6ca459edccf1e973bc460719e69ccc37579
 
 
 
